@@ -4,4 +4,5 @@
 [proxy_list]
 # 代理列表
 
-(^|\.)ip\.taobao\.com$
+#(^|\.)ip\.taobao\.com$
+(^|\.)api\.52glb\.com$
