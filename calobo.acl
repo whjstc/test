@@ -1,0 +1,7 @@
+[bypass_all]
+# 默认直连
+
+[proxy_list]
+# 代理列表
+
+(^|\.)ip\.taobao\.com$
